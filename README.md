@@ -1,1 +1,1 @@
-# Stock-Prediction-from-Reddit
+# Sentiment-Analysis-on-Stock-from-Reddit
